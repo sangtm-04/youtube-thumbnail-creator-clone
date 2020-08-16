@@ -19,10 +19,16 @@
     flex: 1;
     display: flex;
     align-items: center;
+    height: 30px;
+}
+
+.header__input input {
+    padding: 7px !important;
 }
 
 .header__searchButton {
     background-color: lightgray;
+    height: 33px;
 }
 
 .header__rightSide {

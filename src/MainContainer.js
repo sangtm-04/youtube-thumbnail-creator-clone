@@ -18,6 +18,7 @@ function MainContainer() {
                     thumbnailUrl="https://quangcaoytb.com/wp-content/uploads/2019/07/a1.jpg" 
                     channelImageUrl="https://i.pinimg.com/originals/46/00/57/46005760e0544bcadaaee9b92387e8b8.png"
                     postedDate="3 days ago"
+                    isCustom
                     title="Live demo youtube thumbnail clone"
                     channelName="tmsang"
                     noOfViews="5.2M views"
